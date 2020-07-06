@@ -17,7 +17,7 @@ All the files fot this clallenge have been saved on github, using the version co
 
 ## The two results
 
-i've chosen to do two "simple" interfaces in order to reach HTML5 and CSS3 level 1 batch. 
+I've chosen to do two "simple" interfaces in order to reach HTML5 and CSS3 level 1 batch. 
 <br>This is the [link](https://pensive-brattain-7170a2.netlify.app/) to my first interface.<br>
 <br>This is the [link](https://epic-austin-3a30a1.netlify.app/) to my second interface.<br>
 
