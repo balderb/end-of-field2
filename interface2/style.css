@@ -23,8 +23,8 @@ h2 {
 
 .footer {
     text-align: center;
-    padding-top: 25px;
-    padding-bottom: 25px;
+    padding-top: 19px;
+    padding-bottom: 18px;
     padding-left: 25px;
     padding-right: 25px;
     background-color: rgb(56,56,54);
@@ -47,12 +47,14 @@ h2 {
 
 h3.little-container {
     background-color: rgb(242,184,0);
-    padding-top: 16px;
-    padding-bottom: 19px;
+    padding-top: 14px;
+    padding-bottom: 14px;
     border-radius: 7px;
-    width:218px;
 }
 
+H3.more-space {
+    padding-bottom: 15px;
+}
 
 
 
