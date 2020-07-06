@@ -4,32 +4,57 @@
 }
 
 h2 {
+    font-size: 17px;
     padding-top: 25px;
     padding-bottom: 25px;
     padding-left: 25px;
     padding-right: 25px;
-    border-bottom: 
+    border-bottom: solid #F2F2F2;
 }
 
-#main {
+.main {
+    text-align: center;
     padding-top: 25px;
     padding-bottom: 25px;
     padding-left: 25px;
     padding-right: 25px;
+    line-height: 20px; 
 }
 
-#footer {
+.footer {
+    text-align: center;
     padding-top: 25px;
     padding-bottom: 25px;
     padding-left: 25px;
     padding-right: 25px;
+    background-color: rgb(56,56,54);
+    text-align: center;
 }
 
 .container {
-    border: 3px solid red;
+    text-align: center;
+    margin-top: 25px;
+    margin-left: 25px;
+    border: 7px solid #B30728;
     height: 312px;
-    width: 273px;
+    width: 373px;
 }
+
+#intelgreen {
+    color:#66A133;
+    padding-top:10px;
+}
+
+h3.little-container {
+    background-color: rgb(242,184,0);
+    padding-top: 16px;
+    padding-bottom: 19px;
+    border-radius: 7px;
+    width:218px;
+}
+
+h3.
+
 
 
 
