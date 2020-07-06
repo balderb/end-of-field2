@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    color: white;
+}
+
+.rework-image {
+    width: 720px;
+    height:406px;
+}
+
+.footer {
+    width: 720px;
+    height:121px;
+    background-color: black;
+}
+
+.container {
+    padding-top: 15px;
+    padding-left: 15px;
+}
+
+h2 {
+    padding-left:13px;
+    padding-top:20px;
+}
+
+p {
+    padding-left:15px;
+    padding-top:15px
+}
+
+
+
+
+
+
+
+
+
